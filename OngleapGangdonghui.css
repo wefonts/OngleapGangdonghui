@@ -8,3 +8,7 @@
          url("https://cdn.jsdelivr.net/gh/wefonts/OngleapGangdonghui/OngleapGangdonghui.ttf") format("truetype");
     font-display: swap;
 }
+
+.OngleapGangdonghui {
+    font-family: "OngleapGangdonghui";
+}
